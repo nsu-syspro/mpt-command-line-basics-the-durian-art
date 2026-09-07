@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "command-line-basics"
+owner:
+  username: "The-Durian-art"
+  id: 179717359
+  accepted_at: "2026-09-07T13:34:48Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-command-line-basics"
+  branch: "main"
